@@ -291,7 +291,7 @@ print(distances)
 
 
 
-#### Section 5: Correlations with clinical data
+#### Section 4: Correlations with clinical data
 
 ```{r}
 # Clinical inputs
@@ -334,7 +334,7 @@ head(clinic_V2V0, 6)
 
 ```
 
-#### Section 5.1: Correlations V2V0 
+#### Section 4.1: Correlations V2V0 
 
 ```{r}
 A <- logfc_v2v0
